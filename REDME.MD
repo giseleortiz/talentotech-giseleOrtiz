@@ -1,7 +1,7 @@
 👩‍💻 Autora
 Desarrollado por Gisele Ortiz
 
-🔗 LinkedIn ← Reemplaza con tu enlace real
+🔗 www.linkedin.com/in/giseleortiz
 
 ## 🚀 Descripción General
 
