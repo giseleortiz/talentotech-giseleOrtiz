@@ -2,3 +2,5 @@
 .evn
 .vscode
 %AppData%npm-cache
+config
+src/config/firebaseServiceAccount.json

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 6,
+    "name": "Lámpara de escritorio LED",
+    "price": 150,
+    "categories": ["hogar", "iluminación"]
+  },
+  {
+    "id": 7,
+    "name": "Notebook Lenovo 15''",
+    "price": 1200,
+    "categories": ["tecnologia", "computación"]
+  },
+  {
+    "id": 8,
+    "name": "Silla ergonómica de oficina",
+    "price": 750,
+    "categories": ["oficina", "muebles"]
+  },
+  {
+    "id": 9,
+    "name": "Set de ollas antiadherentes",
+    "price": 650,
+    "categories": ["hogar", "cocina"]
+  },
+  {
+    "id": 10,
+    "name": "Pelota de fútbol profesional",
+    "price": 300,
+    "categories": ["deporte", "juguetes"]
+  },
+  {
+    "id": 11,
+    "name": "Smartwatch impermeable",
+    "price": 550,
+    "categories": ["tecnologia", "accesorios"]
+  },
+  {
+    "id": 12,
+    "name": "Juego de sábanas 2 plazas",
+    "price": 400,
+    "categories": ["hogar", "textil"]
+  },
+  {
+    "id": 13,
+    "name": "Auriculares con micrófono",
+    "price": 250,
+    "categories": ["tecnologia", "audio"]
+  },
+  {
+    "id": 14,
+    "name": "Mesa ratona de madera",
+    "price": 900,
+    "categories": ["hogar", "muebles"]
+  },
+  {
+    "id": 15,
+    "name": "Lentes de sol polarizados",
+    "price": 180,
+    "categories": ["moda", "accesorios"]
+  }
+]
